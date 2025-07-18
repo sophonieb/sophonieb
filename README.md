@@ -20,5 +20,3 @@ Here are some ideas to get you started:
  ![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains)  ![Emacs](https://img.shields.io/badge/-Emacs-black?style=flat-square&logo=emacs)
 
 ### 🧲 Lang ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Golang](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)   ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=c)
-
-<img src="https://github-profile-trophy.vercel.app/?username=sophonieb&column=8&theme=flat"/>
